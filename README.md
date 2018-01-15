@@ -16,19 +16,19 @@ If you want to be a world-class thinker, you must develop a mind that can jump b
 
 ## Mental Models by Discipline Topics
 
-- Computer Science: []().
-- Engineering: []().
-- Biology: []().
-- Chemistry: []().
-- Math: []().
-- Physics: []().
-- Statistics: []().
-- Economics: []().
-- Business: []().
-- Finance: []().
-- Accounting: []().
-- Psychology: []().
-- Management: []().
+- Computer Science: [https://github.com/WiseCharlie/mental-models/tree/master/computer-science](https://github.com/WiseCharlie/mental-models/tree/master/computer-science).
+- Engineering: [https://github.com/WiseCharlie/mental-models/tree/master/engineering](https://github.com/WiseCharlie/mental-models/tree/master/engineering).
+- Biology: [https://github.com/WiseCharlie/mental-models/tree/master/biology](https://github.com/WiseCharlie/mental-models/tree/master/biology).
+- Chemistry: [https://github.com/WiseCharlie/mental-models/tree/master/chemistry](https://github.com/WiseCharlie/mental-models/tree/master/chemistry).
+- Math: [https://github.com/WiseCharlie/mental-models/tree/master/math](https://github.com/WiseCharlie/mental-models/tree/master/math).
+- Physics: [https://github.com/WiseCharlie/mental-models/tree/master/physics](https://github.com/WiseCharlie/mental-models/tree/master/physics).
+- Statistics: [https://github.com/WiseCharlie/mental-models/tree/master/statistics](https://github.com/WiseCharlie/mental-models/tree/master/statistics).
+- Economics: [https://github.com/WiseCharlie/mental-models/tree/master/economics](https://github.com/WiseCharlie/mental-models/tree/master/economics).
+- Business: [https://github.com/WiseCharlie/mental-models/tree/master/business](https://github.com/WiseCharlie/mental-models/tree/master/business).
+- Finance: [https://github.com/WiseCharlie/mental-models/tree/master/finance](https://github.com/WiseCharlie/mental-models/tree/master/finance).
+- Accounting: [https://github.com/WiseCharlie/mental-models/tree/master/accounting](https://github.com/WiseCharlie/mental-models/tree/master/accounting).
+- Psychology: [https://github.com/WiseCharlie/mental-models/tree/master/psychology](https://github.com/WiseCharlie/mental-models/tree/master/psychology).
+- Management: [https://github.com/WiseCharlie/mental-models/tree/master/management](https://github.com/WiseCharlie/mental-models/tree/master/management).
 
 ## Structure
 
