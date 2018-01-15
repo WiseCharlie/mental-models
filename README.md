@@ -21,7 +21,7 @@ If you want to be a world-class thinker, you must develop a mind that can jump b
 - [Biology](https://github.com/WiseCharlie/mental-models/tree/master/biology)
 - [Chemistry](https://github.com/WiseCharlie/mental-models/tree/master/chemistry)
 - [Math](https://github.com/WiseCharlie/mental-models/tree/master/math)
-- [Physics](https://github.com/WiseCharlie/mental-models/tree/master/physics).
+- [Physics](https://github.com/WiseCharlie/mental-models/tree/master/physics)
 - [Statistics](https://github.com/WiseCharlie/mental-models/tree/master/statistics)
 - [Economics](https://github.com/WiseCharlie/mental-models/tree/master/economics)
 - [Business](https://github.com/WiseCharlie/mental-models/tree/master/business)
