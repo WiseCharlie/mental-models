@@ -16,19 +16,19 @@ If you want to be a world-class thinker, you must develop a mind that can jump b
 
 ## Mental Models by Discipline Topics
 
-- [Computer Science](https://github.com/WiseCharlie/mental-models/tree/master/computer-science)
-- [Engineering](https://github.com/WiseCharlie/mental-models/tree/master/engineering)
-- [Biology](https://github.com/WiseCharlie/mental-models/tree/master/biology)
-- [Chemistry](https://github.com/WiseCharlie/mental-models/tree/master/chemistry)
-- [Math](https://github.com/WiseCharlie/mental-models/tree/master/math)
-- [Physics](https://github.com/WiseCharlie/mental-models/tree/master/physics)
-- [Statistics](https://github.com/WiseCharlie/mental-models/tree/master/statistics)
-- [Economics](https://github.com/WiseCharlie/mental-models/tree/master/economics)
-- [Business](https://github.com/WiseCharlie/mental-models/tree/master/business)
-- [Finance](https://github.com/WiseCharlie/mental-models/tree/master/finance)
-- [Accounting](https://github.com/WiseCharlie/mental-models/tree/master/accounting)
-- [Psychology](https://github.com/WiseCharlie/mental-models/tree/master/psychology)
-- [Management](https://github.com/WiseCharlie/mental-models/tree/master/management)
+- [Accounting](https://github.com/WiseCharlie/mental-models/tree/master/01-accounting)
+- [Biology](https://github.com/WiseCharlie/mental-models/tree/master/02-biology)
+- [Business](https://github.com/WiseCharlie/mental-models/tree/master/03-business)
+- [Chemistry](https://github.com/WiseCharlie/mental-models/tree/master/04-chemistry)
+- [Computer Science](https://github.com/WiseCharlie/mental-models/tree/master/05-computer-science)
+- [Economics](https://github.com/WiseCharlie/mental-models/tree/master/06-economics)
+- [Engineering](https://github.com/WiseCharlie/mental-models/tree/master/07-engineering)
+- [Finance](https://github.com/WiseCharlie/mental-models/tree/master/08-finance)
+- [Management](https://github.com/WiseCharlie/mental-models/tree/master/09-management)
+- [Math](https://github.com/WiseCharlie/mental-models/tree/master/10-math)
+- [Physics](https://github.com/WiseCharlie/mental-models/tree/master/11-physics)
+- [Psychology](https://github.com/WiseCharlie/mental-models/tree/master/12-psychology)
+- [Statistics](https://github.com/WiseCharlie/mental-models/tree/master/13-statistics)
 
 ## Structure
 
