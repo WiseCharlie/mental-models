@@ -1,4 +1,22 @@
 # Economics
 
-Here we learn mental models extracted from the field of Economics. 
-
+- [Elasticity of Demand](https://github.com/WiseCharlie/mental-models/tree/master/06-economics/01-elasticity-of-demand)
+- [Supply & Demand](https://github.com/WiseCharlie/mental-models/tree/master/06-economics/02-supply-demand)
+- [Scarcity](https://github.com/WiseCharlie/mental-models/tree/master/06-economics/03-scarcity)
+- [Economics of Scale](https://github.com/WiseCharlie/mental-models/tree/master/06-economics/04-economics-of-scale)
+- [Competitive Advantage](https://github.com/WiseCharlie/mental-models/tree/master/06-economics/05-competitive-advantage)
+- [Costs](https://github.com/WiseCharlie/mental-models/tree/master/06-economics/06-costs)
+- [Tradeoffs](https://github.com/WiseCharlie/mental-models/tree/master/06-economics/07-tradeoffs)
+- [Wealth Effect](https://github.com/WiseCharlie/mental-models/tree/master/06-economics/08-wealth-effect)
+- [Comparative Advantage](https://github.com/WiseCharlie/mental-models/tree/master/06-economics/09-comparative-advantage)
+- [Bottleneck – Theory of Constraints](https://github.com/WiseCharlie/mental-models/tree/master/06-economics/10-Bottleneck-theory-of-constraints)
+- [Arbitrage](https://github.com/WiseCharlie/mental-models/tree/master/06-economics/11-arbitrage)
+- [Moral Hazard](https://github.com/WiseCharlie/mental-models/tree/master/06-economics/12-moral-hazard)
+- [Switching Costs](https://github.com/WiseCharlie/mental-models/tree/master/06-economics/13-switching-costs)
+- [Matthew Effect](https://github.com/WiseCharlie/mental-models/tree/master/06-economics/14-matthew-effect)
+- [Marginal Analysis](https://github.com/WiseCharlie/mental-models/tree/master/06-economics/15-marginal-analysis)
+- [Network Effects](https://github.com/WiseCharlie/mental-models/tree/master/06-economics/16-network-effects)
+- [Competitive Destruction](https://github.com/WiseCharlie/mental-models/tree/master/06-economics/17-competitive-destruction)
+- [Pareto Principle](https://github.com/WiseCharlie/mental-models/tree/master/06-economics/18-pareto-principle)
+- [Prisoners' Dilemma](https://github.com/WiseCharlie/mental-models/tree/master/06-economics/19-prisoners-dilemma)
+- [Tragedy of the Commons](https://github.com/WiseCharlie/mental-models/tree/master/06-economics/20-tragedy-of-the-commons)
